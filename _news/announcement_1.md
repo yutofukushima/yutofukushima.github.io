@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-04-01 00:00:00-0900
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I was accepted as a participant of Vulcanus in Europe 2022 :sparkles:
