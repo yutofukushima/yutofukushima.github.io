@@ -168,7 +168,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /research/:path/
+    permalink: /projects/:path/
 
 news:
   enabled: true
